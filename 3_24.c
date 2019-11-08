@@ -56,3 +56,8 @@ void ex_3_24()
         enviar_bonus(&l.clientes[i], bonus);
     }
 }
+
+int main(){
+ex_3_24();
+return 0;
+}
